@@ -3,9 +3,9 @@
  * These are the database login details
  */  
 define("HOST", "localhost");     // The host you want to connect to.
-define("USER", "root");    // The database username.  //sarimehm_sari
-define("PASSWORD", "");    // The database password. //apo2036987
-define("DATABASE", "mydb");    // The database name. //sarimehm_mydb
+define("USER", "root");    // The database username. 
+define("PASSWORD", "");    // The database password. 
+define("DATABASE", "mydb");    // The database name. 
  
 define("CAN_REGISTER", "any");
 define("DEFAULT_ROLE", "member");
